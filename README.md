@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Gleb
 - 👀 I’m interested in Front-end
 - 🌱 I’m currently learning JS
-- 📫 [vk](https://vk.com/id94933896)
+- 📫 [Me in VK](https://vk.com/id94933896)
 
 <!---
 DNIWE08/DNIWE08 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
